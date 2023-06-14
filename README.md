@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### [PROJECTS](/emProjects.md) | [RESUME ON GITPAGE](/Resume.md) | [RESUME PDF VERSION](https://drive.google.com/file/d/1djH2eQEjbeZHFHAlqzNrIv9IYX0zOKRc/view?usp=share_link) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br />
+
+<!--
+The example so i dont forget what to put in  after ive taken out
+
+ #### [PROJECTS](/emProjects.md) | [RESUME ON GITPAGE](/Resume.md) | [RESUME PDF VERSION](https://docs.google.com/document/d/1Xsgr5pJg46gEU_iqB28vXtfFy935WpMbJcqTDjG8BT8/edit?usp=sharing) | [CERTS](https://www.credly.com/users/emilie-dionisio-charriez/badges)<br />
+-->
+
+
+#### [PROJECTS](/emProjects.md) | [RESUME ON GITPAGE](/Resume.md) | [RESUME PDF VERSION](https://docs.google.com/document/d/1Xsgr5pJg46gEU_iqB28vXtfFy935WpMbJcqTDjG8BT8/edit?usp=sharing) | 
