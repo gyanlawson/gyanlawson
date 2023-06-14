@@ -6,4 +6,5 @@ Highly motivated and technically skilled computer science graduate with a passio
 
 
 Technical Skills
+
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,bash,docker,)](https://skillicons.dev)
